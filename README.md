@@ -1,6 +1,6 @@
-# my_expenses_app
+# My Expenses: A Flutter built cross platform mobile app to track your daily expenses 
 
-A new Flutter project.
+This project is used to explore different basic Flutter widgets(as explained by Maximilian Schwarzmüller) in his Udemy course on FLutter. Feel free to fork it.
 
 ## Getting Started
 
